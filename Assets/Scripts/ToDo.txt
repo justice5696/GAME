@@ -1,0 +1,8 @@
+
+
+
+Need a victory condition screen.
+Increase starting health.
+Change score so damage matters.
+Add game objective and rules to instruction screen.
+Build to executable.
