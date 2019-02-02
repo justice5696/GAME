@@ -1,0 +1,416 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:'Temp/Assembly-CSharp.dll'
+-nostdlib
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.BaselibModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CloudWebServicesModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.FacebookModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.TimelineModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/UnityEditor.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/Managed/Unity.Locator.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
+-r:'Library/ScriptAssemblies/UnityEditor.StandardEvents.dll'
+-r:'Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll'
+-r:'Library/ScriptAssemblies/NavMeshComponentsEditor.dll'
+-r:'Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll'
+-r:'Library/ScriptAssemblies/NavMeshComponents.dll'
+-r:'Library/ScriptAssemblies/Unity.TextMeshPro.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll'
+-r:'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/XInput/Plugins/x86/XInputDotNetPure.dll'
+-r:'/home/alec/.config/unity3d/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll'
+-r:'/home/alec/.config/unity3d/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Core.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Xml.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/UnityScript.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/UnityScript.Lang.dll'
+-r:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_2_7
+-define:UNITY_2018_2
+-define:UNITY_2018
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITES
+-define:ENABLE_GRID
+-define:ENABLE_TILEMAP
+-define:ENABLE_TERRAIN
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_VIDEO
+-define:ENABLE_PACKMAN
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_LOCALIZATION
+-define:PLATFORM_STANDALONE_LINUX
+-define:PLATFORM_STANDALONE
+-define:UNITY_STANDALONE_LINUX
+-define:UNITY_STANDALONE
+-define:UNITY_STANDALONE_LINUX_API
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VR
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_MODULAR_UNITYENGINE_ASSEMBLIES
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_LINUX
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:CROSS_PLATFORM_INPUT
+-define:INVECTOR_BASIC
+-define:INVECTOR_MELEE
+'Assets/Arena/Example/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs'
+'Assets/Arena/Example/ParticleSystems/Scripts/ParticleSystemMultiplier.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/vAnimateUV.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/CullingFadeControl/vCullingFadeControl.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/vThirdPersonCamera.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/vThirdPersonCameraExtensions.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/vThirdPersonCameraListData.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/vThirdPersonCameraState.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vActionListener.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vGenericAction.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vGenericAnimation.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vLadderAction.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vTriggerGenericAction.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Actions/vTriggerLadderAction.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/2.5D/v2_5DController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/2.5D/v2_5DInput.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/2.5D/v2_5DPath.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/ClickToMove/Scripts/vClickToMoveCursor.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/ClickToMove/Scripts/vClickToMoveInput.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/TopDown/vMousePositionHandler.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/Examples/TopDown/vTopDownController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vAnimatorParameter.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vAnimatorStateInfo.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vCharacter.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vCharacterStandalone.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vGameController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vHUDController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vICharacter.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vInput.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vMoveSetSpeed.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vOnDeadTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonAnimator.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonInput.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonMotor.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vAudioSurface.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vAudioSurfaceControl.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vFisherYatesRandom.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vFootPlantingPlayer.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vFootStep.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vFootStepHandler.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Scripts/vFootStepTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorEvent.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorEventReceiver.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorSetBool.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorSetFloat.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorSetInt.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorSetValue.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vAnimatorTag.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Animator/vTriggerSoundByState.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vBarDisplayAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vButtonAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vClassHeaderAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vEditorToolbarAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vHelpBoxAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vHideInInspectorAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vReadOnlyAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Attributes/vToggleOptionAttribute.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Health/v_SpriteHealth.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Health/vHealthController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Health/vHealthItem.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Health/vIDamageReceiver.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Health/vIHealthController.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Interactables/vPendulum.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Interactables/vPickupItem.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Interactables/vPlatform.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Interactables/vPunchingBag.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Interactables/vSimpleDoor.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vChangeCameraAngleTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vChangeInputTypeTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vDestroyOnTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vFindSpawnPoint.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vJumpMultiplierTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vLoadLevel.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vSimpleTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vTriggerChangeCameraState.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Triggers/vTutorialTextTrigger.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vComment.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vDestroyGameObject.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vEventWithDelay.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vExtensions.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vFrameLimiter.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vHitDamageParticle.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vImageColorChange.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vInstantiate.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vLookAtCamera.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vMessageReceiver.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vMessageSender.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vMonoBehaviour.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vObjectContainer.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vPlayRandomClip.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vRemoveParent.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vRotateObject.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vSetParent.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vSkyboxFade.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/Utils/vTagMask.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/vSliderSizeControl.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/HeadTrack/Scripts/vHeadTrack.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/HeadTrack/Scripts/vHeadTrackSensor.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/HeadTrack/Scripts/vLookTarget.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/vDamage.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/vObjectDamage.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/vSpike/vSpike.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/vSpike/vSpikeControl.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Ragdoll/vDamageReceiver.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Ragdoll/vIRagdollListener.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Ragdoll/vRagdoll.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Ragdoll/vRagdollCollision.cs'
+'Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Ragdoll/vRagdollGenericTemplate.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/Examples/vAddItemByID.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/Examples/vContainsItemTrigger.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/Examples/vRemoveCurrentItem.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/Examples/vRemoveItem.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vAutoScrollVertical.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vControlAreaByInput.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vDrawHideMeleeWeapons.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vEquipArea.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vEquipAreaControl.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vEquipmentDisplay.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vEquipProperties.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vEquipSlot.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vGridLayoutExpand.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vHandler.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vIEquipment.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vInventory.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vInventoryWindow.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItem.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemAmountWindow.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemAttribute.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemAttributes.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemAttributesManager.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemCollection.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemCollectionDisplay.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemCollectionTextHUD.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemEnumsBuilder/vItemEnums.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemEnumsBuilder/vItemEnumsList.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemListData.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemManager.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemManagerEvents.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemOptionWindow.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemSlot.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemWindow.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vItemWindowDisplay.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vLeaveDropItemExample.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vOpenCloseInventoryTrigger.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vSetFirstSelectable.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vWeaponHolder.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vWeaponHolderManager.cs'
+'Assets/Invector-3rdPersonController/ItemManager/Scripts/vWindowPop_up.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Script/vBreakableObject.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Script/vDestroyOnSleep.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AIAnimator.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AICompanion.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AIController.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AIMotor.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AISphereSensor.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterAI/v_AIWeaponsControl.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterController/vMeleeClickToMove.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/CharacterController/vMeleeCombatInput.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/vLockOn.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/vLockOnBehaviour.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vCollectableStandalone.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vCollectMeleeControl.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vControlDisplayWeaponStandalone.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vDisplayWeaponStandalone.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vEnumFlagAttribute.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vHitBox.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vHitEffects.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vIAttackListener.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vIAttackReceiver.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vIMeleeFighter.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vMeleeAttackControl.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vMeleeAttackObject.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vMeleeEquipment.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vMeleeManager.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vMeleeWeapon.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vRandomAttackBehaviour.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vWeaponConstrain.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/WaypointSystem/vPoint.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/WaypointSystem/vWaypoint.cs'
+'Assets/Invector-3rdPersonController/Melee Combat/Scripts/WaypointSystem/vWaypointArea.cs'
+'Assets/PlayerStatsMenu.cs'
+'Assets/Scripts/CharacterStatus.cs'
+'Assets/Scripts/CharacterStatusEnemy.cs'
+'Assets/Scripts/ContentsOfChest.cs'
+'Assets/Scripts/EnemyMovement.cs'
+'Assets/Scripts/EnemyStateMachine/AttackState.cs'
+'Assets/Scripts/EnemyStateMachine/EnemyState.cs'
+'Assets/Scripts/EnemyStateMachine/LootState.cs'
+'Assets/Scripts/EnemyStateMachine/State.cs'
+'Assets/Scripts/EvilCubeMovement.cs'
+'Assets/Scripts/FishMovements.cs'
+'Assets/Scripts/graphics/Underwater.cs'
+'Assets/Scripts/graphics/UnderwaterEffect.cs'
+'Assets/Scripts/graphics/WaterMirrorReflection.cs'
+'Assets/Scripts/HealthBar.cs'
+'Assets/Scripts/HedgeEntranceTrigger.cs'
+'Assets/Scripts/InventoryObjectScript.cs'
+'Assets/Scripts/InventoryStuff/Inventory.cs'
+'Assets/Scripts/InventoryStuff/Item.cs'
+'Assets/Scripts/InventoryStuff/Mask.cs'
+'Assets/Scripts/InventoryStuff/Weapon.cs'
+'Assets/Scripts/MainUIController.cs'
+'Assets/Scripts/misc/AnimatedProjector.cs'
+'Assets/Scripts/NavMeshInstantiator.cs'
+'Assets/Scripts/PlayerController.cs'
+'Assets/Scripts/SurroundClouds.cs'
+'Assets/Scripts/SwitchCams.cs'
+'Assets/Scripts/UIBaseElement.cs'
+'Assets/Scripts/UIManagers/HighScore.cs'
+'Assets/Scripts/UIManagers/MaskText.cs'
+'Assets/Scripts/UIManagers/Score.cs'
+'Assets/Scripts/UIManagers/StatusText.cs'
+'Assets/Scripts/UIManagers/UIManager.cs'
+'Assets/Scripts/UIManagers/UIManager_Instructions.cs'
+'Assets/Scripts/UIManagers/UIManager_Title.cs'
+'Assets/Scripts/UIManagers/UIManager1.cs'
+'Assets/Scripts/UIManagers/WeaponText.cs'
+'Assets/Scripts/UnderwaterGraphics.cs'
+'Assets/Scripts/WorldSpawn.cs'
+'Assets/UIController.cs'
+-lib:'/home/alec/Desktop/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity'
