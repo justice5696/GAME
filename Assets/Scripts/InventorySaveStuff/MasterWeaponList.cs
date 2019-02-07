@@ -5,12 +5,12 @@ using UnityEngine;
 public class MasterWeaponList : MonoBehaviour
 {
 
-  public Dictionary<string, Weapon> MasterWeaponList;
+  public Dictionary<string, Weapon> WeaponList;
 
     // Start is called before the first frame update
     void Start()
     {
-      MasterWeaponList = new Dictionary<string, Weapon>()
+      WeaponList = new Dictionary<string, Weapon>()
           {
             {"Default",  new Weapon("Default")},
             {"Sword", new Weapon("Sword", 1.2f, 1.2f, 1.2f)},
@@ -24,6 +24,6 @@ public class MasterWeaponList : MonoBehaviour
 
     public Weapon getWeapon(string name)
     {
-      return MasterWeaponList[name];
+      return WeaponList[name];
     }
 }

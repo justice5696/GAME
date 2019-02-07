@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-05T19:00:59.693-05:00
-  initializedAtString: 2019-02-05T19:00:59.693-05:00
+  lastUpdatedAtString: 2019-02-06T18:06:13.225-05:00
+  initializedAtString: 2019-02-06T18:06:13.225-05:00
   currentGitRemote:
     name: origin
-    url: git@github.com:justice5696/GAME.git
+    url: https://github.com/justice5696/GAME.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: git@github.com:justice5696/GAME.git
+      url: https://github.com/justice5696/GAME.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: git@github.com:justice5696/GAME.git
+    url: https://github.com/justice5696/GAME.git
   currentHead: 
