@@ -4,10 +4,32 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - concrete
-  - dirt
-  - Fire
-  - Controller
+  - Action
+  - AutoCrouch
+  - Ragdoll
+  - Ignore Ragdoll
+  - Boss
+  - Enemy
+  - CompanionAI
+  - Weapon
+  - PlayerUI
+  - Collectable
+  - LookAt
+  - Interactable
+  - Dirt
+  - Wood
+  - Metal
+  - Concrete
+  - Glass
+  - Item
+  - Water
+  - LadderTrigger
+  - Cover
+  - ExitWater
+  - Barrel
+  - FreeClimb
+  - ClimbDirection
+  - Zipline
   layers:
   - Default
   - TransparentFX
@@ -18,13 +40,13 @@ TagManager:
   - 
   - 
   - Player
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - StopMove
+  - Action
+  - HeadTrack
+  - BodyPart
   - 
   - 
   - 

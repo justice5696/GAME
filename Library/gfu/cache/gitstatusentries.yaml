@@ -13,6 +13,606 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-06T19:04:14.602-05:00
-  initializedAtString: 2019-02-06T18:06:15.746-05:00
-  entries: []
+  lastUpdatedAtString: 2019-02-08T19:23:37.519-05:00
+  initializedAtString: 2019-02-08T16:35:02.487-05:00
+  entries:
+  - path: .vs\GAME\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\.vs\GAME\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\GAME\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\GAME\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\.vs\GAME\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\GAME\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Materials\Misc\bubbles_a.mat
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Assets\Materials\Misc\bubbles_a.mat
+    projectPath: Assets\Materials\Misc\bubbles_a.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\PortalTrigger.cs
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Assets\PortalTrigger.cs
+    projectPath: Assets\PortalTrigger.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\Terrain.unity
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Assets\Scenes\Terrain.unity
+    projectPath: Assets\Scenes\Terrain.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Collab\CollabSnapshot_626e1350-73ef-4093-bd92-f1f6477e2c21.txt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\Collab\CollabSnapshot_626e1350-73ef-4093-bd92-f1f6477e2c21.txt
+    projectPath: Library\Collab\CollabSnapshot_626e1350-73ef-4093-bd92-f1f6477e2c21.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\11\117fdbcfa29c7904aadeb56079aacdd6.info
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\metadata\11\117fdbcfa29c7904aadeb56079aacdd6.info
+    projectPath: Library\metadata\11\117fdbcfa29c7904aadeb56079aacdd6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\73\7350b65a6431f604a8496c39db1ac9c5.info
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\metadata\73\7350b65a6431f604a8496c39db1ac9c5.info
+    projectPath: Library\metadata\73\7350b65a6431f604a8496c39db1ac9c5.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f9\f98e681d58bd88f4dbb4ede3af230041
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\metadata\f9\f98e681d58bd88f4dbb4ede3af230041
+    projectPath: Library\metadata\f9\f98e681d58bd88f4dbb4ede3af230041
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\2\2d44f11112936ec9897eddd892813daa.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\2\2d44f11112936ec9897eddd892813daa.bin
+    projectPath: Library\ShaderCache\2\2d44f11112936ec9897eddd892813daa.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\32dd7ead41d77aef3fe63d7d112891a6.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\3\32dd7ead41d77aef3fe63d7d112891a6.bin
+    projectPath: Library\ShaderCache\3\32dd7ead41d77aef3fe63d7d112891a6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\37607997bf3d346544d60e2b53356f14.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\3\37607997bf3d346544d60e2b53356f14.bin
+    projectPath: Library\ShaderCache\3\37607997bf3d346544d60e2b53356f14.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\382aab457d32461e0c5295f071e7f306.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\3\382aab457d32461e0c5295f071e7f306.bin
+    projectPath: Library\ShaderCache\3\382aab457d32461e0c5295f071e7f306.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3a7bcacbab45937317b2b69caae73469.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\3\3a7bcacbab45937317b2b69caae73469.bin
+    projectPath: Library\ShaderCache\3\3a7bcacbab45937317b2b69caae73469.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3c0f2aebd7bf18d7bde16935c1077a8b.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\3\3c0f2aebd7bf18d7bde16935c1077a8b.bin
+    projectPath: Library\ShaderCache\3\3c0f2aebd7bf18d7bde16935c1077a8b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\5d9a03e3ed3c269b3d954d7317818872.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\5\5d9a03e3ed3c269b3d954d7317818872.bin
+    projectPath: Library\ShaderCache\5\5d9a03e3ed3c269b3d954d7317818872.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7893795a4dd48d12fbe784693150c628.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\7\7893795a4dd48d12fbe784693150c628.bin
+    projectPath: Library\ShaderCache\7\7893795a4dd48d12fbe784693150c628.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8bf254e76fa944b44652f80e27f835ac.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\8\8bf254e76fa944b44652f80e27f835ac.bin
+    projectPath: Library\ShaderCache\8\8bf254e76fa944b44652f80e27f835ac.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9891f7889d4693cddbaa2fbe8b586b03.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\9\9891f7889d4693cddbaa2fbe8b586b03.bin
+    projectPath: Library\ShaderCache\9\9891f7889d4693cddbaa2fbe8b586b03.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ab5bc828b1b92a9fcf3d160197915a60.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\a\ab5bc828b1b92a9fcf3d160197915a60.bin
+    projectPath: Library\ShaderCache\a\ab5bc828b1b92a9fcf3d160197915a60.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b0eec273fa412a4c1be28eead6792e74.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\b\b0eec273fa412a4c1be28eead6792e74.bin
+    projectPath: Library\ShaderCache\b\b0eec273fa412a4c1be28eead6792e74.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\cf6c0fbdef29d257ea1c43ea7b508019.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\c\cf6c0fbdef29d257ea1c43ea7b508019.bin
+    projectPath: Library\ShaderCache\c\cf6c0fbdef29d257ea1c43ea7b508019.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e36314b68bfbaab0bfc262a1eb6829d0.bin
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\ShaderCache\e\e36314b68bfbaab0bfc262a1eb6829d0.bin
+    projectPath: Library\ShaderCache\e\e36314b68bfbaab0bfc262a1eb6829d0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\caca91-mainStage.json
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\StateCache\Hierarchy\caca91-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\caca91-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\844b1b-mainStage.json
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Library\StateCache\SceneView\844b1b-mainStage.json
+    projectPath: Library\StateCache\SceneView\844b1b-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\061d8757941380aab875d3cb49880199.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\061d8757941380aab875d3cb49880199.lt
+    projectPath: Temp\ProcessJobs\061d8757941380aab875d3cb49880199.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\061d8757941380aab875d3cb49880199.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\061d8757941380aab875d3cb49880199.vis
+    projectPath: Temp\ProcessJobs\061d8757941380aab875d3cb49880199.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\124859b8c40ef70ea0d4cc5ebf0fc487.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\124859b8c40ef70ea0d4cc5ebf0fc487.clust
+    projectPath: Temp\ProcessJobs\124859b8c40ef70ea0d4cc5ebf0fc487.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.lt
+    projectPath: Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.vis
+    projectPath: Temp\ProcessJobs\1b81f89869bfb71f0f2e2ec4832f9f05.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.lt
+    projectPath: Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.vis
+    projectPath: Temp\ProcessJobs\23034dbd415efa10d9a177bdb751f996.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.lt
+    projectPath: Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.vis
+    projectPath: Temp\ProcessJobs\2bcc3876921a264d0499778d37679d88.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.lt
+    projectPath: Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.vis
+    projectPath: Temp\ProcessJobs\2bd74ca803bb137d71f2efa5c94f4297.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.lt
+    projectPath: Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.vis
+    projectPath: Temp\ProcessJobs\33e96683f9a82a7ef30d8487ac1c50ae.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.lt
+    projectPath: Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.vis
+    projectPath: Temp\ProcessJobs\36ec52ff828d5d03a9af2a8bd2a6cea0.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\451de93632ff4bdbdb509033e149d3f5.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\451de93632ff4bdbdb509033e149d3f5.clust
+    projectPath: Temp\ProcessJobs\451de93632ff4bdbdb509033e149d3f5.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\45c5ebbd462594536ce5f26a01392b6c.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\45c5ebbd462594536ce5f26a01392b6c.clust
+    projectPath: Temp\ProcessJobs\45c5ebbd462594536ce5f26a01392b6c.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.lt
+    projectPath: Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.vis
+    projectPath: Temp\ProcessJobs\469f5751b7e02277f21f6a39499eae06.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.lt
+    projectPath: Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.vis
+    projectPath: Temp\ProcessJobs\4972842d8e0452418474bb2a367f6edb.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\4bb8cbeb38982b98b00aca50c1c88517.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\4bb8cbeb38982b98b00aca50c1c88517.clust
+    projectPath: Temp\ProcessJobs\4bb8cbeb38982b98b00aca50c1c88517.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5082e97c2f7a039442001a4f48322589.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5082e97c2f7a039442001a4f48322589.clust
+    projectPath: Temp\ProcessJobs\5082e97c2f7a039442001a4f48322589.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\518224b83d02ae0fbcb24464e6415c5b.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\518224b83d02ae0fbcb24464e6415c5b.clust
+    projectPath: Temp\ProcessJobs\518224b83d02ae0fbcb24464e6415c5b.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.lt
+    projectPath: Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.vis
+    projectPath: Temp\ProcessJobs\56e6efffb6e7648ae34d86dd6d37d010.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.lt
+    projectPath: Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.vis
+    projectPath: Temp\ProcessJobs\5991d31a5ff0c02da1cc50a736229a20.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5d969802fd8a9aa3731715863b3d5fc0.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5d969802fd8a9aa3731715863b3d5fc0.clust
+    projectPath: Temp\ProcessJobs\5d969802fd8a9aa3731715863b3d5fc0.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.lt
+    projectPath: Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.vis
+    projectPath: Temp\ProcessJobs\5e3db4ca77caca2a2a94047bdd8906c1.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\60a40dae981e54ef777e775aa53280a0.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\60a40dae981e54ef777e775aa53280a0.clust
+    projectPath: Temp\ProcessJobs\60a40dae981e54ef777e775aa53280a0.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.lt
+    projectPath: Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.vis
+    projectPath: Temp\ProcessJobs\63859c0e52a4e499de8f7281b27e23ee.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6575529870de8155e42f54b9dfcbcc20.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\6575529870de8155e42f54b9dfcbcc20.clust
+    projectPath: Temp\ProcessJobs\6575529870de8155e42f54b9dfcbcc20.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\83e467ead66758e4d7c62571d062d6aa.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\83e467ead66758e4d7c62571d062d6aa.clust
+    projectPath: Temp\ProcessJobs\83e467ead66758e4d7c62571d062d6aa.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\91e2d0ff18aca2589f65ffcb513d1a6d.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\91e2d0ff18aca2589f65ffcb513d1a6d.clust
+    projectPath: Temp\ProcessJobs\91e2d0ff18aca2589f65ffcb513d1a6d.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.lt
+    projectPath: Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.vis
+    projectPath: Temp\ProcessJobs\98e9fb89cfd7a69d083ca737e2761663.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.lt
+    projectPath: Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.vis
+    projectPath: Temp\ProcessJobs\9af911a7d6e4f93a59ad8bdd691921db.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ae7f19036bed9785f9280d78d2d20b74.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\ae7f19036bed9785f9280d78d2d20b74.clust
+    projectPath: Temp\ProcessJobs\ae7f19036bed9785f9280d78d2d20b74.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b616f30db4701146f429f3c4fbd54cc3.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\b616f30db4701146f429f3c4fbd54cc3.clust
+    projectPath: Temp\ProcessJobs\b616f30db4701146f429f3c4fbd54cc3.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\bcc216bd25fc060166f03d12f3510417.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\bcc216bd25fc060166f03d12f3510417.clust
+    projectPath: Temp\ProcessJobs\bcc216bd25fc060166f03d12f3510417.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\cdde542d6fd5bee7fdaa13bb237af060.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\cdde542d6fd5bee7fdaa13bb237af060.clust
+    projectPath: Temp\ProcessJobs\cdde542d6fd5bee7fdaa13bb237af060.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d60bad434d505cd89164c49c0f72c3e2.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\d60bad434d505cd89164c49c0f72c3e2.clust
+    projectPath: Temp\ProcessJobs\d60bad434d505cd89164c49c0f72c3e2.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.lt
+    projectPath: Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.vis
+    projectPath: Temp\ProcessJobs\e8d2c08261d2ba0f120eb2d6b4d9b2ad.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.lt
+    projectPath: Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.vis
+    projectPath: Temp\ProcessJobs\eda55bfea67caa3801d57b2da5caec63.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ee66c75e823763f4aea358bdb13fae0b.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\ee66c75e823763f4aea358bdb13fae0b.clust
+    projectPath: Temp\ProcessJobs\ee66c75e823763f4aea358bdb13fae0b.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.lt
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.lt
+    projectPath: Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.vis
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.vis
+    projectPath: Temp\ProcessJobs\f8a5f1115c29e6ee51f26d97c62b49eb.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f971f1c307294f18ceeda43dbf6d417f.clust
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\ProcessJobs\f971f1c307294f18ceeda43dbf6d417f.clust
+    projectPath: Temp\ProcessJobs\f971f1c307294f18ceeda43dbf6d417f.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-30d0422307a9f3f42a2d540464a9c27f
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\UnityTempFile-30d0422307a9f3f42a2d540464a9c27f
+    projectPath: Temp\UnityTempFile-30d0422307a9f3f42a2d540464a9c27f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-31bcb78c4a1bec746814b8ed1b714fbb
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\UnityTempFile-31bcb78c4a1bec746814b8ed1b714fbb
+    projectPath: Temp\UnityTempFile-31bcb78c4a1bec746814b8ed1b714fbb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-99f90b275efaa3f42894d8caaaa4a24c
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\UnityTempFile-99f90b275efaa3f42894d8caaaa4a24c
+    projectPath: Temp\UnityTempFile-99f90b275efaa3f42894d8caaaa4a24c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a54229577e591bc4183c42f3cef7234c
+    fullPath: C:\Users\aj9un\Documents\GitHub\GAME\Temp\UnityTempFile-a54229577e591bc4183c42f3cef7234c
+    projectPath: Temp\UnityTempFile-a54229577e591bc4183c42f3cef7234c
+    originalPath: 
+    status: 1
+    staged: 0

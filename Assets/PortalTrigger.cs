@@ -5,9 +5,15 @@ using UnityEngine;
 
 public class PortalTrigger : MonoBehaviour
 {
+    /*
+     * The portal object that actually holds this script SHOULD HAVE THE SAME NAME AS THE SCENE IT LOADS TO 
+     * 
+     */
+     
     private void Awake()
     {
         SceneManager.sceneLoaded += this.OnLoadCallback;
+        Debug.Log("this name is: " + this.name);
     }
     private void OnTriggerStay(Collider collision)
     {
@@ -34,7 +40,9 @@ public class PortalTrigger : MonoBehaviour
         GameObject character = GameObject.FindWithTag("Controller");
         DontDestroyOnLoad(character);
 
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Arena");
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(this.name);
+
+        //LoadSavedData() //if don't destroy on load doesnt work
 
         // Wait until the asynchronous scene fully loads
         while (!asyncLoad.isDone)
